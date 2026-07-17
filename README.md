@@ -62,7 +62,7 @@ The Streamlit app provides a more user-friendly workflow for entering a ticker, 
 A live hosted version of the Streamlit interface is available on Render.
 
 - Status: Live on Render
-- App: https://institutional-intrinsic-valuation-engine.onrender.com
+- App: https://institutional-intrinsic-valuation-engine-0q2h.onrender.com
 
 ## Notes
 
