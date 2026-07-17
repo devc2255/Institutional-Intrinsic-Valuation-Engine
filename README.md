@@ -2,6 +2,8 @@
 
 A Python-based valuation toolkit for estimating intrinsic stock value using a multi-stage discounted cash flow (DCF) workflow. The repository combines live market data, operating forecasts, WACC automation, sensitivity analysis, and a reverse-DCF growth check into one modular pipeline.
 
+[![Live Status on Render](https://img.shields.io/badge/Render-Live%20Status-success?logo=render)](https://institutional-intrinsic-valuation-engine-0q2h.onrender.com)
+
 ## What this project does
 
 This repository is designed to:
@@ -57,12 +59,6 @@ streamlit run app1.py
 
 The Streamlit app provides a more user-friendly workflow for entering a ticker, fetching baseline data, and running the valuation model interactively.
 
-## Live Demo
-
-A live hosted version of the Streamlit interface is available on Render.
-
-- Status: Live on Render
-- App: https://institutional-intrinsic-valuation-engine-0q2h.onrender.com
 
 ## Notes
 
